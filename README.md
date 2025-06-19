@@ -1,2 +1,2 @@
-# React-project
+# React
 Note maker app
